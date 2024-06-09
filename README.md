@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2037-count-square-sum-triples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2630-alternating-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2630-alternating-digit-sum) |
