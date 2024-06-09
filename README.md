@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2714-left-and-right-sum-differences) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0088-merge-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0344-reverse-string) |
 | [2128-reverse-prefix-of-word](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -53,3 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2752-sum-multiples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2752-sum-multiples) |
+# Binary Search
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
