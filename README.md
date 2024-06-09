@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1848-sum-of-unique-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2714-left-and-right-sum-differences) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3221-find-the-peaks) |
 | [3429-special-array-i](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3429-special-array-i) |
 # Two Pointers
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2037-count-square-sum-triples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2037-count-square-sum-triples) |
+| [2844-sum-of-squares-of-special-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3221-find-the-peaks) |
 # Sorting
 |  |
