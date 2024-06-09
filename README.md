@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [2630-alternating-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2752-sum-multiples) |
 # Binary Search
 |  |
