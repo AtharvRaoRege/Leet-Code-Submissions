@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0088-merge-sorted-array) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2714-left-and-right-sum-differences](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2714-left-and-right-sum-differences) |
 | [3221-find-the-peaks](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3221-find-the-peaks) |
 | [3429-special-array-i](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3429-special-array-i) |
 # Two Pointers
@@ -44,3 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0088-merge-sorted-array) |
+# Prefix Sum
+|  |
+| ------- |
+| [2714-left-and-right-sum-differences](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2714-left-and-right-sum-differences) |
