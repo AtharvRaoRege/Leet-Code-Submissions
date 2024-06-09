@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
+| [1603-running-sum-of-1d-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1603-running-sum-of-1d-array) |
 | [1677-matrix-diagonal-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1848-sum-of-unique-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -54,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Prefix Sum
 |  |
 | ------- |
+| [1603-running-sum-of-1d-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1603-running-sum-of-1d-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2714-left-and-right-sum-differences) |
 # Math
 |  |
