@@ -49,3 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2714-left-and-right-sum-differences](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2714-left-and-right-sum-differences) |
+# Math
+|  |
+| ------- |
+| [2752-sum-multiples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2752-sum-multiples) |
