@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Enumeration
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2037-count-square-sum-triples) |
 | [3221-find-the-peaks](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3221-find-the-peaks) |
 # Sorting
 |  |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Math
 |  |
 | ------- |
+| [2037-count-square-sum-triples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2037-count-square-sum-triples) |
 | [2630-alternating-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2752-sum-multiples) |
 # Binary Search
