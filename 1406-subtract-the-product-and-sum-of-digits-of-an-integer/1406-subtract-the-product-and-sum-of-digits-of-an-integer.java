@@ -2,17 +2,13 @@ class Solution {
     public int subtractProductAndSum(int n) {
         int temp = n;
         int sum = 0;
+        int mul = 1;
         while(n > 0){
             int rem = n % 10;
+            mul *= rem;
             sum += rem;
             n /= 10;
         }
-        int mul = 1;
-        while(temp > 0){
-            int rem = temp % 10;
-            mul *= rem;
-            temp /= 10;
-        }
-        return mul - sum;
+        return Math.abs( mul - sum );
     }
 }
