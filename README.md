@@ -14,11 +14,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # String
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0205-isomorphic-strings) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [2128-reverse-prefix-of-word](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2128-reverse-prefix-of-word) |
 # Hash Table
 |  |
 | ------- |
+| [0205-isomorphic-strings](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0205-isomorphic-strings) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 # Trie
 |  |
