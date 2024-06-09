@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1848-sum-of-unique-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1848-sum-of-unique-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2714-left-and-right-sum-differences) |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3221-find-the-peaks](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3221-find-the-peaks) |
 | [3429-special-array-i](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3429-special-array-i) |
@@ -82,3 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2298-count-integers-with-even-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2298-count-integers-with-even-digit-sum) |
+# Greedy
+|  |
+| ------- |
+| [2767-maximum-sum-with-exactly-k-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
