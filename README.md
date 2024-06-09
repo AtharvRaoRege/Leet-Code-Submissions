@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [1677-matrix-diagonal-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1677-matrix-diagonal-sum) |
+| [1848-sum-of-unique-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1848-sum-of-unique-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2714-left-and-right-sum-differences) |
 | [3221-find-the-peaks](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3221-find-the-peaks) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0001-two-sum) |
 | [0205-isomorphic-strings](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0205-isomorphic-strings) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
+| [1848-sum-of-unique-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1848-sum-of-unique-elements) |
 # Trie
 |  |
 | ------- |
@@ -65,3 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1677-matrix-diagonal-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1677-matrix-diagonal-sum) |
+# Counting
+|  |
+| ------- |
+| [1848-sum-of-unique-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1848-sum-of-unique-elements) |
