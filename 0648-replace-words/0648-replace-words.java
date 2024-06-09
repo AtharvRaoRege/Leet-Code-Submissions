@@ -1,9 +1,5 @@
 class Solution {
     public String replaceWords(List<String> dictionary, String sentence) {
-        if(dictionary.get(0) == "catt" && dictionary.get(1) == "cat" &&
-        dictionary.get(2) == "bat" && dictionary.get(3) == "rat"){
-            return "the cat was rat by the bat";
-        }
         String []sent = sentence.split(" ");
         Collections.sort(dictionary);
         StringBuilder sb = new StringBuilder();
