@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1044-find-common-characters) |
+| [1823-determine-if-string-halves-are-alike](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2128-reverse-prefix-of-word](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
 # Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Counting
 |  |
 | ------- |
+| [1823-determine-if-string-halves-are-alike](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1848-sum-of-unique-elements) |
 # Simulation
 |  |
