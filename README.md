@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0001-two-sum) |
 | [0088-merge-sorted-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1044-find-common-characters) |
 | [1319-unique-number-of-occurrences](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1319-unique-number-of-occurrences) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0013-roman-to-integer) |
+| [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0409-longest-palindrome) |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
 | [0242-valid-anagram](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Prefix Sum
@@ -102,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
 | [1823-determine-if-string-halves-are-alike](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [1848-sum-of-unique-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1848-sum-of-unique-elements) |
 # Simulation
@@ -113,3 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0409-longest-palindrome](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0409-longest-palindrome) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+# Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
