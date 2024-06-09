@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1677-matrix-diagonal-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1677-matrix-diagonal-sum) |
 | [1848-sum-of-unique-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1848-sum-of-unique-elements) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2714-left-and-right-sum-differences](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2714-left-and-right-sum-differences) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2844-sum-of-squares-of-special-elements) |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2037-count-square-sum-triples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2298-count-integers-with-even-digit-sum) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2630-alternating-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2630-alternating-digit-sum) |
 | [2752-sum-multiples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2752-sum-multiples) |
 # Binary Search
