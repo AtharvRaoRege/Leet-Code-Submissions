@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0229-majority-element-ii) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1044-find-common-characters) |
+| [1137-height-checker](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1137-height-checker) |
 | [1319-unique-number-of-occurrences](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1603-running-sum-of-1d-array) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
+| [1137-height-checker](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1137-height-checker) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Prefix Sum
 |  |
@@ -128,3 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
+# Counting Sort
+|  |
+| ------- |
+| [1137-height-checker](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1137-height-checker) |
