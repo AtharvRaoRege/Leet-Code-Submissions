@@ -135,4 +135,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
 | [1137-height-checker](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1137-height-checker) |
