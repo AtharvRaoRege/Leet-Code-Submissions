@@ -5,10 +5,10 @@ class Solution {
         for(int i : nums){
             hm.put(i,hm.getOrDefault(i,0)+1);
         }
-        AtomicInteger atom = new AtomicInteger();
-        hm.forEach((k,v)->{
-            if(v > nums.length / 2) atom.set(k);
-        });
-        return atom.get();
+        int max = 0;
+        for(var e: hm.entrySet()){
+            if(e.getValue() > nums.length/2 ) max = e.getKey();
+        }
+        return max;
     }
 }
