@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0409-longest-palindrome) |
+| [0412-fizz-buzz](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0412-fizz-buzz) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2037-count-square-sum-triples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0412-fizz-buzz) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2298-count-integers-with-even-digit-sum) |
 # Greedy
 |  |
