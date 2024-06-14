@@ -5,7 +5,6 @@ class Solution {
         nums[j] = temp;
     }
     public int[] sortArrayByParity(int[] nums) {
-        int []arr = new int[nums.length];
         int s = 0; int e = nums.length - 1;
         while(s<e){
             int lft = nums[s];
