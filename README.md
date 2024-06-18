@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0088-merge-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0344-reverse-string](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0344-reverse-string) |
+| [0633-sum-of-square-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0941-sort-array-by-parity](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0941-sort-array-by-parity) |
 | [2128-reverse-prefix-of-word](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0013-roman-to-integer) |
 | [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0412-fizz-buzz) |
+| [0633-sum-of-square-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2037-count-square-sum-triples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2298-count-integers-with-even-digit-sum) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0035-search-insert-position](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
+| [0633-sum-of-square-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Matrix
 |  |
