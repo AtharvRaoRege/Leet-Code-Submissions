@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0229-majority-element-ii) |
+| [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [0941-sort-array-by-parity](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0941-sort-array-by-parity) |
 | [1044-find-common-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1044-find-common-characters) |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0205-isomorphic-strings](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0205-isomorphic-strings) |
 | [0229-majority-element-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0409-longest-palindrome) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
 | [0941-sort-array-by-parity](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1137-height-checker) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [2037-count-square-sum-triples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2037-count-square-sum-triples) |
@@ -123,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0035-search-insert-position) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Matrix
 |  |
@@ -163,3 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0164-maximum-gap) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
