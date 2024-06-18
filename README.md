@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2844-sum-of-squares-of-special-elements) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
 | [3221-find-the-peaks](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3221-find-the-peaks) |
 | [3429-special-array-i](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/3429-special-array-i) |
 # Two Pointers
@@ -174,3 +175,4 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
+| [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
