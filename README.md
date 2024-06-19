@@ -180,4 +180,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0191-number-of-1-bits](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0191-number-of-1-bits) |
 | [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
+| [0338-counting-bits](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0338-counting-bits) |
 | [3093-sum-of-values-at-indices-with-k-set-bits](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3093-sum-of-values-at-indices-with-k-set-bits) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0338-counting-bits](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0338-counting-bits) |
