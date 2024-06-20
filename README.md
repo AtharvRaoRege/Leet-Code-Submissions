@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1044-find-common-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
 | [1137-height-checker](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1137-height-checker) |
+| [1241-decompress-run-length-encoded-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1241-decompress-run-length-encoded-list) |
 | [1319-unique-number-of-occurrences](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1319-unique-number-of-occurrences) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1603-running-sum-of-1d-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1603-running-sum-of-1d-array) |
