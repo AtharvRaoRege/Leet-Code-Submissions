@@ -13,7 +13,7 @@ class Solution {
             }else i++;
         }
         for(int j = 0; j < nums.length; j++){
-            if(nums[j] != j + 1) return j+1;
+            if(j + 1 != nums[j]) return j+1;
         }
         return nums.length + 1;
     }
