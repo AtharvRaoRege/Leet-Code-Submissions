@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0344-reverse-string](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0412-fizz-buzz) |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0290-word-pattern](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0648-replace-words](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0648-replace-words) |
 | [1044-find-common-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1044-find-common-characters) |
 | [1112-find-words-that-can-be-formed-by-characters](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1112-find-words-that-can-be-formed-by-characters) |
@@ -107,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0268-missing-number) |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [0941-sort-array-by-parity](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0941-sort-array-by-parity) |
 | [1137-height-checker](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1137-height-checker) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -169,11 +172,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1137-height-checker](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1137-height-checker) |
 # Bucket Sort
 |  |
 | ------- |
 | [0164-maximum-gap](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0164-maximum-gap) |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 # Radix Sort
 |  |
 | ------- |
@@ -189,3 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0338-counting-bits](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0338-counting-bits) |
+# Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
