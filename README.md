@@ -67,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1823-determine-if-string-halves-are-alike](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1823-determine-if-string-halves-are-alike) |
 | [2128-reverse-prefix-of-word](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2128-reverse-prefix-of-word) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [3396-valid-word](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3396-valid-word) |
 # Hash Table
 |  |
 | ------- |
