@@ -2,7 +2,8 @@ class Solution {
     public static boolean isVowel(char a){
         a = Character.toLowerCase(a);
         if(!Character.isLetter(a)) return false;
-        if(a == 'a' || a == 'e' || a == 'i'|| a == 'o'|| a == 'u') return true;
+        String vowels = "aeiou";
+        if(vowels.indexOf(a) != -1) return true;
         return false;
     }
     public static boolean isDigit(char ch){
