@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0035-search-insert-position) |
 | [0041-first-missing-positive](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0088-merge-sorted-array) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0169-majority-element) |
 | [0191-number-of-1-bits](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0191-number-of-1-bits) |
 # Counting Sort
@@ -194,6 +196,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 # Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0053-maximum-subarray) |
 | [0338-counting-bits](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0338-counting-bits) |
 # Heap (Priority Queue)
 |  |
