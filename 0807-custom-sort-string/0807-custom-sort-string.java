@@ -1,6 +1,6 @@
 class Solution {
     public String customSortString(String order, String s) {
-        Map<Character,Integer> hm = new HashMap<>();
+          Map<Character,Integer> hm = new HashMap<>();
         for(char i: s.toCharArray()){
             hm.put(i ,hm.getOrDefault(i ,0) + 1);
         }
@@ -8,7 +8,7 @@ class Solution {
         for(int i = 0; i < order.length(); i++){
             if(hm.containsKey(order.charAt(i))){
                 int cnt = hm.get(order.charAt(i));
-                while(cnt-- > 0) {
+                while(cnt -- > 0) {
                     sb.append(order.charAt(i));
                 }
             }
