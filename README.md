@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0148-sort-list) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0234-palindrome-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/AtharvRaoRege/Leet-Code--Submissions/tree/master/0344-reverse-string) |
 | [0633-sum-of-square-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [0941-sort-array-by-parity](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0941-sort-array-by-parity) |
@@ -217,6 +218,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0148-sort-list) |
+| [0234-palindrome-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0234-palindrome-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 # Merge Sort
 |  |
@@ -226,3 +228,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0021-merge-two-sorted-lists) |
+| [0234-palindrome-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0234-palindrome-linked-list) |
+# Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0234-palindrome-linked-list) |
