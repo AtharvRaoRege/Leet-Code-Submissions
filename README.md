@@ -135,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0412-fizz-buzz) |
 | [0633-sum-of-square-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0633-sum-of-square-numbers) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2037-count-square-sum-triples](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2037-count-square-sum-triples) |
 | [2298-count-integers-with-even-digit-sum](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2298-count-integers-with-even-digit-sum) |
 | [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
@@ -216,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0021-merge-two-sorted-lists](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0021-merge-two-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0148-sort-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 # Merge Sort
 |  |
 | ------- |
