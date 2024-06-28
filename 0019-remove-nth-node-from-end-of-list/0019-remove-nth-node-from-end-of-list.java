@@ -28,8 +28,6 @@ class Solution {
             ptr = ptr.next;
         }
         ptr.next = ptr.next.next;
-        ptr = null;
-        System.gc();
         return head;
     }
 }
