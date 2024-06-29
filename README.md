@@ -245,4 +245,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+## Array
+|  |
+| ------- |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 <!---LeetCode Topics End-->
