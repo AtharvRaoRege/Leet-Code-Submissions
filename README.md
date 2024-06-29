@@ -248,9 +248,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2519-find-the-original-array-of-prefix-xor) |
+## String
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+## Simulation
+|  |
+| ------- |
+| [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 <!---LeetCode Topics End-->
