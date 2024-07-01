@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1651-shuffle-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [1651-shuffle-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
 |  |
