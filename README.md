@@ -246,10 +246,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
 |  |
 | ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1651-shuffle-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2519-find-the-original-array-of-prefix-xor) |
@@ -296,4 +298,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
+## Hash Table
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+## Sorting
+|  |
+| ------- |
+| [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 <!---LeetCode Topics End-->
