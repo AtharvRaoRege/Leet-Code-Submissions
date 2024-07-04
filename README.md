@@ -243,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0328-odd-even-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
 |  |
 | ------- |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Stack
 |  |
 | ------- |
