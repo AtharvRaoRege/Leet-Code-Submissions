@@ -238,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0328-odd-even-linked-list) |
@@ -298,6 +299,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0002-add-two-numbers) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
@@ -314,5 +316,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
