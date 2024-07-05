@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0328-odd-even-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0445-add-two-numbers-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Two Pointers
@@ -282,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
+| [0445-add-two-numbers-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0445-add-two-numbers-ii) |
 ## Tree
 |  |
 | ------- |
@@ -305,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0002-add-two-numbers) |
 | [0415-add-strings](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0415-add-strings) |
+| [0445-add-two-numbers-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0445-add-two-numbers-ii) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 ## Hash Table
 |  |
