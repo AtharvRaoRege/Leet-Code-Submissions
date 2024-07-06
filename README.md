@@ -240,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0203-remove-linked-list-elements) |
 | [0328-odd-even-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0328-odd-even-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0445-add-two-numbers-ii) |
@@ -249,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0143-reorder-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -281,6 +283,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0094-binary-tree-inorder-traversal) |
+| [0143-reorder-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0143-reorder-list) |
 | [0144-binary-tree-preorder-traversal](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0145-binary-tree-postorder-traversal) |
 | [0445-add-two-numbers-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0445-add-two-numbers-ii) |
@@ -325,5 +328,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0002-add-two-numbers) |
+| [0143-reorder-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
