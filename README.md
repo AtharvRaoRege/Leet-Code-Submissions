@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0151-reverse-words-in-a-string) |
 | [0415-add-strings](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0415-add-strings) |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1651-shuffle-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
 ## Simulation
@@ -322,6 +323,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Binary Search
 |  |
 | ------- |
@@ -330,10 +332,23 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0002-add-two-numbers) |
 | [0143-reorder-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0143-reorder-list) |
 | [0203-remove-linked-list-elements](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0203-remove-linked-list-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
+## Bucket Sort
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
+## Counting
+|  |
+| ------- |
+| [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 <!---LeetCode Topics End-->
