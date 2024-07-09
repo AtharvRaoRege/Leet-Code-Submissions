@@ -252,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0143-reorder-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Array
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0020-valid-parentheses](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0151-reverse-words-in-a-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0415-add-strings](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0415-add-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1651-shuffle-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1651-shuffle-string) |
