@@ -258,6 +258,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0118-pascals-triangle](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0118-pascals-triangle) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1651-shuffle-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -360,4 +361,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0014-longest-common-prefix) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0118-pascals-triangle](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0118-pascals-triangle) |
 <!---LeetCode Topics End-->
