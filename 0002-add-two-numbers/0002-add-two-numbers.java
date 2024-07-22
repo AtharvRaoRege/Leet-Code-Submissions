@@ -25,6 +25,7 @@ class Solution {
                 sum += list2.val;
                 list2 = list2.next;
             }
+            
             carry = sum/10;
             sum %= 10;
             temp.next = new ListNode(sum);
