@@ -272,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1651-shuffle-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2502-sort-the-people) |
 | [2519-find-the-original-array-of-prefix-xor](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3206-find-common-elements-between-two-arrays) |
 | [3476-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3476-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
 | [1651-shuffle-string](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/1651-shuffle-string) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2502-sort-the-people](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2502-sort-the-people) |
 ## Simulation
 |  |
 | ------- |
@@ -339,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [2502-sort-the-people](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2502-sort-the-people) |
 | [3206-find-common-elements-between-two-arrays](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/3206-find-common-elements-between-two-arrays) |
 ## Binary Search
 |  |
@@ -352,6 +355,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0148-sort-list](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0148-sort-list) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0451-sort-characters-by-frequency](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/0451-sort-characters-by-frequency) |
+| [2502-sort-the-people](https://github.com/AtharvRaoRege/Leet-Code-Submissions/tree/master/2502-sort-the-people) |
 ## Recursion
 |  |
 | ------- |
